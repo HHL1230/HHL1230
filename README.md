@@ -1,4 +1,4 @@
-# 李浩祥 Hao-Hsiang (Shawn) Lee
+# 李浩祥 Hao-Hsiang Lee
 
 **實驗室自動化與應用 AI** · Laboratory Automation & Applied AI
 
