@@ -39,7 +39,7 @@ and increasingly wrap them in AI-assisted tooling.</sub>
 - [**my-products**](https://github.com/HHL1230/my-products) — 面向非技術使用者的工具發佈入口
   <sub>Release portal distributing the finished tools to non-technical users</sub>
 
-多數實驗室工具因雇主保密規範不公開原始碼，歡迎於面試中說明架構設計。
+多數實驗室工具因雇主保密規範不公開原始碼，可另行說明架構設計。
 <sub>Most laboratory tooling remains private under employer confidentiality.
 Architecture walkthroughs are available on request.</sub>
 
